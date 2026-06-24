@@ -1,0 +1,6 @@
+{
+    "CampaignCouldNotDeliverMessage": "Campaign {id} contact {name} could not deliver message.",
+    "CampaignHasContactsCounter": "Campaign {id} has {counter} contact(s).",
+    "CouldNotSendCampaignMessage": "Could not send campaign {campaign_id} message to {email}!",
+    "SentCampaignMessageToEmail": "Sent campaign {campaign_id} message to {email}!"
+}
